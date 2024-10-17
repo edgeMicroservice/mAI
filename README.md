@@ -8,4 +8,4 @@ mAIChain is an implementation of an AI chain as a microservice. It acts as a coo
 3. Locate the unzipped .tar file; this artifact is needed for the edge microservice deployment.
 4. If you are deploying the edge microservice for the first time, please follow the [edge microservice deployment quick start guide](https://devdocs.mimik.com/tutorials/01-submenu).
 
-- For additional information ai tutorials, please visit [mimik ai quickstart tutorials](https://devdocs.mimik.com/tutorials/02-submenu)
+- For additional information on ai tutorials, please visit [mimik ai quickstart tutorials](https://devdocs.mimik.com/tutorials/02-submenu)
